@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+cosine_similarity.py
+venv/
+movie_dataset.csv
