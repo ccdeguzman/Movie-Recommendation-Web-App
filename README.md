@@ -16,4 +16,3 @@ This is another personal project. I wanted to keep building upon previous projec
 python get_tmdb_movies.py <br>
 python app.py <br>
 Run index.html on Live Server <br>
-./test <br>
